@@ -3,4 +3,5 @@ This is the first sample file
 
 This is second test config.
 
-pull 取得遠端資料庫內容commit 紀錄索引的狀態
+pull 取得遠端資料庫內容
+commit 紀錄索引的狀態
